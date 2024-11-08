@@ -11,6 +11,14 @@
     {
       "name": "EntryAbility_label",
       "value": "智慧高新"
+    },
+    {
+      "name": "tab_message",
+      "value": "Message"
+    },
+    {
+      "name": "tab_contact",
+      "value": "Contact"
     }
   ]
 }

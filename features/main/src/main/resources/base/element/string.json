@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "scan_qrcode",
+      "value": "扫一扫"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "new_item",
+      "value": "new item"
+    },
+    {
+      "name": "to_do",
+      "value": "to do task"
+    },
+    {
+      "name": "done",
+      "value": "finished task"
+    },
+    {
+      "name": "to_read",
+      "value": "to read"
+    },
+    {
+      "name": "read",
+      "value": "finished read"
+    },
+    {
+      "name": "my_post",
+      "value": "my post file"
+    },
+    {
+      "name": "file_monitoring",
+      "value": "file monitoring"
+    },
+    {
+      "name": "my_archive",
+      "value": "my file archive"
+    },
+    {
+      "name": "file_archive",
+      "value": "文件归档"
+    },
+    {
+      "name": "file_manage",
+      "value": "file manage"
+    },
+    {
+      "name": "history_data",
+      "value": "history data"
+    },
+    {
+      "name": "your_work_finished",
+      "value": "It's great! Your work is finished."
+    }
+  ]
+}

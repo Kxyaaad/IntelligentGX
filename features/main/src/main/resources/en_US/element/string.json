@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "scan_qrcode",
+      "value": "scaning"
+    },
+    {
+      "name": "setting",
+      "value": "setting"
+    },
+    {
+      "name": "new_item",
+      "value": "new"
+    },
+    {
+      "name": "to_do",
+      "value": "to do"
+    },
+    {
+      "name": "done",
+      "value": "done"
+    },
+    {
+      "name": "to_read",
+      "value": "to read"
+    },
+    {
+      "name": "read",
+      "value": "read"
+    },
+    {
+      "name": "my_post",
+      "value": "my post"
+    },
+    {
+      "name": "file_monitoring",
+      "value": "file monitoring"
+    },
+    {
+      "name": "my_archive",
+      "value": "my archive"
+    },
+    {
+      "name": "file_archive",
+      "value": "file archive"
+    },
+    {
+      "name": "file_manage",
+      "value": "file manage"
+    },
+    {
+      "name": "history_data",
+      "value": "history data "
+    },
+    {
+      "name": "your_work_finished",
+      "value": "It's great! Your work is finished."
+    }
+  ]
+}

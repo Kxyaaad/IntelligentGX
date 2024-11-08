@@ -1,0 +1,25 @@
+{
+  "float": [
+    {
+      "name": "button_height",
+      "value": "30vp"
+    },
+
+    {
+      "name": "button_width",
+      "value": "45vp"
+    },
+    {
+      "name" : "button_image_height",
+      "value": "20vp"
+    },
+    {
+      "name": "button_padding",
+      "value": "5vp"
+    },
+    {
+      "name": "button_text_size",
+      "value": "8fp"
+    }
+  ]
+}

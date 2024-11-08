@@ -5,6 +5,12 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    "main": "file:../features/main",
+    "message": "file:../features/message",
+    "contacts" : "file:../features/contacts",
+    "utils": "file:../commons/utils",
+    "login": "file:../features/Login"
+  }
 }
 

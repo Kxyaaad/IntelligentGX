@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "scan_qrcode",
+      "value": "扫一扫"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "new_item",
+      "value": "新建"
+    },
+    {
+      "name": "to_do",
+      "value": "待办"
+    },
+    {
+      "name": "done",
+      "value": "已办"
+    },
+    {
+      "name": "to_read",
+      "value": "待阅"
+    },
+    {
+      "name": "read",
+      "value": "已阅"
+    },
+    {
+      "name": "my_post",
+      "value": "我的发文"
+    },
+    {
+      "name": "file_monitoring",
+      "value": "文件监控"
+    },
+    {
+      "name": "my_archive",
+      "value": "我的归档"
+    },
+    {
+      "name": "file_archive",
+      "value": "文件归档"
+    },
+    {
+      "name": "file_manage",
+      "value": "文件管理"
+    },
+    {
+      "name": "history_data",
+      "value": "历史数据"
+    },
+    {
+      "name": "your_work_finished",
+      "value": "太棒了！您的工作都完成了 !"
+    }
+  ]
+}

@@ -10,7 +10,7 @@
         "buildOption": {
           "strictMode": {
             "caseSensitiveCheck": true,
-            "useNormalizedOHMUrl": true
+            "useNormalizedOHMUrl": true,
           }
         }
       }
@@ -36,6 +36,34 @@
           ]
         }
       ]
+    },
+    {
+      "name": "main",
+      "srcPath": "./features/main",
+    },
+    {
+      "name": "message",
+      "srcPath": "./features/message",
+    },
+    {
+      "name": "contacts",
+      "srcPath": "./features/contacts",
+    },
+    {
+      "name": "utils",
+      "srcPath": "./commons/utils",
+    },
+    {
+      "name": "uicomponents",
+      "srcPath": "./commons/uicomponents",
+    },
+    {
+      "name": "Login",
+      "srcPath": "./features/Login",
+    },
+    {
+      "name": "Mine",
+      "srcPath": "./features/Mine",
     }
   ]
 }

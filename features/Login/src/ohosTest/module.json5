@@ -1,9 +1,9 @@
 {
   "module": {
-    "name": "entry_test",
+    "name": "Login_test",
     "type": "feature",
     "deviceTypes": [
-      "phone",
+      "default",
       "tablet",
       "2in1"
     ],
